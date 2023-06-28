@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asadullah523
 - 👀 I’m interested in learning new languages reading codes
 - 🌱 I’m currently learning C#
-
+- you can reach me via my socials 
 
 <!---
 Asadullah523/Asadullah523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
