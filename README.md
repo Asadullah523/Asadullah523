@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Asadullah523
-- 👀 I’m interested in learning new languages reading codes
-- A professional  FrontEnd Web Developer
+- A professional  FrontEnd Web Developer 
 - Node.js  || React.js  || JavaScript  ||  MongoDB || SQL || Python
 - you can reach me via my socials 
 
